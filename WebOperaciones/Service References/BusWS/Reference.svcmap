@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3a52d717-4bd1-433a-a1ce-0a8b8556b440" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:58994/Buses.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Buses.disco" MetadataType="Disco" ID="75e3ead3-6eb9-4744-8a2d-570dffbc878b" SourceId="1" SourceUrl="http://localhost:58994/Buses.svc?disco" />
+    <MetadataFile FileName="Buses.xsd" MetadataType="Schema" ID="ac05d5ae-5785-4ad6-9b23-c6809b8135c4" SourceId="1" SourceUrl="http://localhost:58994/Buses.svc?xsd=xsd2" />
+    <MetadataFile FileName="Buses1.xsd" MetadataType="Schema" ID="4543fb45-a1c3-4881-a7a2-03d3a9ea0e9c" SourceId="1" SourceUrl="http://localhost:58994/Buses.svc?xsd=xsd3" />
+    <MetadataFile FileName="Buses2.xsd" MetadataType="Schema" ID="1ff1a8aa-d3e4-47f2-80c6-4cf9b4d51c22" SourceId="1" SourceUrl="http://localhost:58994/Buses.svc?xsd=xsd0" />
+    <MetadataFile FileName="Buses3.xsd" MetadataType="Schema" ID="c77ab8a3-acaf-423b-a4f7-a72c3a4b1c2a" SourceId="1" SourceUrl="http://localhost:58994/Buses.svc?xsd=xsd1" />
+    <MetadataFile FileName="Buses.wsdl" MetadataType="Wsdl" ID="c0ed3d18-5716-418d-8727-2f0415c18b44" SourceId="1" SourceUrl="http://localhost:58994/Buses.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

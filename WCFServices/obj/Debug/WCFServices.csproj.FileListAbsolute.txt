@@ -1,0 +1,59 @@
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\ApplicationInsights.config
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\WCFServices.dll.config
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\WCFServices.dll
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\WCFServices.pdb
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\Microsoft.AI.Web.dll
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\Microsoft.AI.WindowsServer.dll
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\Microsoft.ApplicationInsights.dll
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\Microsoft.AI.Web.xml
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\Microsoft.AI.WindowsServer.xml
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\bin\Microsoft.ApplicationInsights.xml
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\obj\Debug\WCFServices.csprojResolveAssemblyReference.cache
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\obj\Debug\WCFServices.dll
+D:\desarrollo de sistemas distribuidos\nimeltr\WCFServices\obj\Debug\WCFServices.pdb
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\ApplicationInsights.config
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\WCFServices.dll.config
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\WCFServices.dll
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\WCFServices.pdb
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\Microsoft.AI.Web.dll
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\Microsoft.AI.Web.xml
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\obj\Debug\WCFServices.csprojResolveAssemblyReference.cache
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\obj\Debug\WCFServices.dll
+C:\Users\NIMEL\Desktop\nimeltr\WCFServices\obj\Debug\WCFServices.pdb
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\ApplicationInsights.config
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\WCFServices.dll.config
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\WCFServices.dll
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\WCFServices.pdb
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\Microsoft.AI.Web.dll
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\Microsoft.AI.WindowsServer.dll
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\Microsoft.ApplicationInsights.dll
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\Microsoft.AI.Web.xml
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\Microsoft.AI.WindowsServer.xml
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\bin\Microsoft.ApplicationInsights.xml
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\obj\Debug\WCFServices.csprojAssemblyReference.cache
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\obj\Debug\WCFServices.csproj.CoreCompileInputs.cache
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\obj\Debug\WCFServices.csproj.CopyComplete
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\obj\Debug\WCFServices.dll
+D:\Descargas\SERVICIOS\nimeltr\WCFServices\obj\Debug\WCFServices.pdb

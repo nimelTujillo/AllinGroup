@@ -1,0 +1,9 @@
+﻿
+.fade {
+    opacity: 0;
+    transition: opacity .15s linear;
+}
+
+    .fade.show {
+        opacity: 1;
+    }

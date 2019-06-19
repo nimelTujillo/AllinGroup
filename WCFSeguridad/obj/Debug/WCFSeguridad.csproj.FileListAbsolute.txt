@@ -1,0 +1,7 @@
+D:\Descargas\SERVICIOS\nimeltr\WCFSeguridad\bin\WCFSeguridad.dll.config
+D:\Descargas\SERVICIOS\nimeltr\WCFSeguridad\bin\WCFSeguridad.dll
+D:\Descargas\SERVICIOS\nimeltr\WCFSeguridad\bin\WCFSeguridad.pdb
+D:\Descargas\SERVICIOS\nimeltr\WCFSeguridad\obj\Debug\WCFSeguridad.csprojAssemblyReference.cache
+D:\Descargas\SERVICIOS\nimeltr\WCFSeguridad\obj\Debug\WCFSeguridad.csproj.CoreCompileInputs.cache
+D:\Descargas\SERVICIOS\nimeltr\WCFSeguridad\obj\Debug\WCFSeguridad.dll
+D:\Descargas\SERVICIOS\nimeltr\WCFSeguridad\obj\Debug\WCFSeguridad.pdb

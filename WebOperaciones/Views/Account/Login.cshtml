@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewBag.Title = "Iniciar Sesion";
+}
+
+<div class="limiter">
+    <div class="container-login100">
+        <div class="wrap-login100">
+            <form class="login100-form validate-form p-l-55 p-r-55 p-t-178">
+                <span class="login100-form-title">
+                    Iniciar Sesión
+                </span>
+
+                <div class="wrap-input100 validate-input m-b-16" data-validate="Por favor ingrese el usuario">
+                    <input id="txt_Usuario" class="input100" type="text" name="usuario" placeholder="Usuario">
+                    <span class="focus-input100"></span>
+                </div>
+
+                <div class="wrap-input100 validate-input" data-validate="Por favor ingrese la contraseña">
+                    <input id="txt_Contrasenia" class="input100" type="password" name="pass" placeholder="Contraseña">
+                    <span class="focus-input100"></span>
+                </div>
+                <div class="container-login100-form-btn mt-5">
+                    <input type="button" class="login100-form-btn" id="btnLogin" value="Iniciar Sesión" />
+                </div>
+                <div class="container mt-5">
+
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $("#btnLogin").click(function () {
+    $.ajax({
+        url: '@Url.Action("Login", "Account")',
+        data: JSON.stringify({
+            Usuario: $("#txt_Usuario").val(),
+            Contrasenia: $("#txt_Contrasenia").val(),
+            RUC: $("#txt_Ruc").val(),
+        }),
+        type: "POST",
+        cache: false,
+        async: true,
+        contentType: "application/json;charset=UTF-8",
+        datatype: "json",
+        success: function (data) {
+            if (data == "Success") {
+                document.location.href = '@Url.Action("Index", "Home")';
+            }
+            else {
+                alert(data);
+            }
+        },
+        error: function (request, status, error) {
+            if (request.status == 500) {
+
+                alert(error);
+            }
+            if (request.status == 401) {
+                document.location.href = CmpGlobalVariableUrl401;
+            }
+        }
+    });
+    });
+</script>

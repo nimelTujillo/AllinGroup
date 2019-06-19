@@ -1,0 +1,43 @@
+﻿@model List<WebOperaciones.BusWS.Movilidad>
+
+<div id="IndexPartialDiv">
+    <table class="table table-sm table-bordered table-striped table-hover" style="margin-top: 40px;">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">CLASE</th>
+                <th scope="col">PLACA</th>
+                <th scope="col">MARCA</th>
+                <th scope="col">MODELO</th>
+                <th scope="col">COLOR</th>
+                <th scope="col">ASIENTOS</th>
+                <th scope="col">PUERTAS</th>
+                <th scope="col">FECHA INSCRIPCIÓN</th>
+                <th scope="col">AÑO FABRICACIÓN</th>
+                <th scope="col">ESTADO</th>
+                <th colspan="2">&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td scope="row">@Html.DisplayFor(modelItem => item.Id)</td>
+                <td>@Html.DisplayFor(modelItem => item.Clase)</td>
+                <td>@Html.DisplayFor(modelItem => item.Placa)</td>
+                <td>@Html.DisplayFor(modelItem => item.Marca)</td>
+                <td>@Html.DisplayFor(modelItem => item.Modelo)</td>
+                <td>@Html.DisplayFor(modelItem => item.Color)</td>
+                <td>@Html.DisplayFor(modelItem => item.Asientos)</td>
+                <td>@Html.DisplayFor(modelItem => item.Puertas)</td>
+                <td>@Html.DisplayFor(modelItem => item.FeInscripcion)</td>
+                <td>@Html.DisplayFor(modelItem => item.Año)</td>
+                <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                <td>@Html.ActionLink("Editar", "Edit", "Bus", new { id = item.Id }, new { @class = "btn btn-outline-primary btn-sm" })</td>
+                <td>@Html.ActionLink("Eliminar", "Delete", "Bus", new { id = item.Id }, new { @class = "btn btn-outline-danger btn-sm" })</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
