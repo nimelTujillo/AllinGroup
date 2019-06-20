@@ -16,3 +16,9 @@ D:\Descargas\SERVICIOS\nimeltr\WCFServicesTest\obj\Debug\WCFServicesTest.csproj.
 D:\Descargas\SERVICIOS\nimeltr\WCFServicesTest\obj\Debug\WCFServicesTest.csproj.CopyComplete
 D:\Descargas\SERVICIOS\nimeltr\WCFServicesTest\obj\Debug\WCFServicesTest.dll
 D:\Descargas\SERVICIOS\nimeltr\WCFServicesTest\obj\Debug\WCFServicesTest.pdb
+C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFServicesTest\bin\Debug\WCFServicesTest.dll.config
+C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFServicesTest\bin\Debug\WCFServicesTest.dll
+C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFServicesTest\bin\Debug\WCFServicesTest.pdb
+C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFServicesTest\obj\Debug\WCFServicesTest.csprojResolveAssemblyReference.cache
+C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFServicesTest\obj\Debug\WCFServicesTest.dll
+C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFServicesTest\obj\Debug\WCFServicesTest.pdb

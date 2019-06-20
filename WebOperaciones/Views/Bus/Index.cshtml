@@ -113,7 +113,9 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-md-4"></div>
+                            <div class="col-md-4">
+                                <input type="button" class="btn btn-danger btn-block" id="btnLimpiar" value="Limpiar" />
+                            </div>
                             <div class="col-md-4">
                                 <input type="button" class="btn btn-primary btn-block" id="btnAceptar" value="Aceptar" />
                             </div>
@@ -137,6 +139,9 @@
     $(document).ready(function () {
 
         listarBuses();
+    });
+    $("#btnLimpiar").click(function () {
+        limpiar();
     });
 
     $("#btnAceptar").click(function () {
@@ -225,7 +230,7 @@
         $.ajax({
             url: '@Url.Action("EnviarCorreo", "Bus")',
             data: JSON.stringify({
-                correo: 'jcarlosverase@gmail.com',
+                correo: 'miriandvs@gmail.com',
                 asunto: 'WEB OPERACIONES: CHOFER',
                 mensaje: 'Solicitud aprobada'
             }),

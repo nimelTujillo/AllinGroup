@@ -14,8 +14,8 @@ namespace WCFServicesTest
             BusesWS.BusesClient proxy = new BusesWS.BusesClient();
             BusesWS.Movilidad busesCreado = proxy.CrearMovilidad(new BusesWS.Movilidad()
             {
-                Id = 3,
-                Placa = "EPE-2013",
+                Id = 0,
+                Placa = "EP-2019",
                 Clase = "OMNIBUS",
                 Marca = "VOLVO",
                 Modelo = "OP-256",
@@ -27,8 +27,8 @@ namespace WCFServicesTest
                 Año = "2019",
                 Estado = "Activo"
             });
-            Assert.AreEqual(3, busesCreado.Id);
-            Assert.AreEqual("EPE-2013", busesCreado.Placa);
+           // Assert.AreEqual(0, busesCreado.Id);
+            Assert.AreEqual("EP-2019", busesCreado.Placa);
             Assert.AreEqual("OMNIBUS", busesCreado.Clase);
             Assert.AreEqual("VOLVO", busesCreado.Marca);
             Assert.AreEqual("OP-256", busesCreado.Modelo);
@@ -48,8 +48,8 @@ namespace WCFServicesTest
             { 
                 BusesWS.Movilidad busesCreado = proxy.CrearMovilidad(new BusesWS.Movilidad()
                 {
-                    Id = 111,
-                    Placa = "EPE-2013",
+                    Id = 3,
+                    Placa = "EPE-2010",
                     Clase = "OMNIBUS",
                     Marca = "VOLVO",
                     Modelo = "OP-256",
@@ -65,7 +65,7 @@ namespace WCFServicesTest
             {
                 Assert.AreEqual("Error al intentar crear", error.Reason.ToString());
                 Assert.AreEqual(error.Detail.codigo, "101");
-                Assert.AreEqual(error.Detail.descripcion, "El bus ya existe");
+                Assert.AreEqual(error.Detail.descripcion, "La movilidad ya existe");
             }
         }
 
