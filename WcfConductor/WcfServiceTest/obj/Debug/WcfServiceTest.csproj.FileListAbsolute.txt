@@ -1,0 +1,16 @@
+C:\Users\mvilladeza\Desktop\MVILLADEZA ------\SOAP\WcfConductor\WcfServiceTest\bin\Debug\WcfServiceTest.dll.config
+C:\Users\mvilladeza\Desktop\MVILLADEZA ------\SOAP\WcfConductor\WcfServiceTest\bin\Debug\WcfServiceTest.dll
+C:\Users\mvilladeza\Desktop\MVILLADEZA ------\SOAP\WcfConductor\WcfServiceTest\bin\Debug\WcfServiceTest.pdb
+C:\Users\mvilladeza\Desktop\MVILLADEZA ------\SOAP\WcfConductor\WcfServiceTest\obj\Debug\WcfServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\mvilladeza\Desktop\MVILLADEZA ------\SOAP\WcfConductor\WcfServiceTest\obj\Debug\WcfServiceTest.dll
+C:\Users\mvilladeza\Desktop\MVILLADEZA ------\SOAP\WcfConductor\WcfServiceTest\obj\Debug\WcfServiceTest.pdb
+D:\Workspace\NIMEL\WcfConductor\WcfServiceTest\bin\Debug\WcfServiceTest.dll.config
+D:\Workspace\NIMEL\WcfConductor\WcfServiceTest\bin\Debug\WcfServiceTest.dll
+D:\Workspace\NIMEL\WcfConductor\WcfServiceTest\bin\Debug\WcfServiceTest.pdb
+D:\Workspace\NIMEL\WcfConductor\WcfServiceTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspace\NIMEL\WcfConductor\WcfServiceTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Workspace\NIMEL\WcfConductor\WcfServiceTest\obj\Debug\WcfServiceTest.csprojAssemblyReference.cache
+D:\Workspace\NIMEL\WcfConductor\WcfServiceTest\obj\Debug\WcfServiceTest.csproj.CoreCompileInputs.cache
+D:\Workspace\NIMEL\WcfConductor\WcfServiceTest\obj\Debug\WcfServiceTest.csproj.CopyComplete
+D:\Workspace\NIMEL\WcfConductor\WcfServiceTest\obj\Debug\WcfServiceTest.dll
+D:\Workspace\NIMEL\WcfConductor\WcfServiceTest\obj\Debug\WcfServiceTest.pdb

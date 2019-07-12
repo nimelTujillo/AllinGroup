@@ -1,0 +1,19 @@
+C:\Users\mvilladeza\Desktop\MVILLADEZA ------\SOAP\WcfConductor\WcfConductor\bin\WcfConductor.dll.config
+C:\Users\mvilladeza\Desktop\MVILLADEZA ------\SOAP\WcfConductor\WcfConductor\bin\WcfConductor.dll
+C:\Users\mvilladeza\Desktop\MVILLADEZA ------\SOAP\WcfConductor\WcfConductor\bin\WcfConductor.pdb
+C:\Users\mvilladeza\Desktop\MVILLADEZA ------\SOAP\WcfConductor\WcfConductor\obj\Debug\WcfConductor.csprojResolveAssemblyReference.cache
+C:\Users\mvilladeza\Desktop\MVILLADEZA ------\SOAP\WcfConductor\WcfConductor\obj\Debug\WcfConductor.dll
+C:\Users\mvilladeza\Desktop\MVILLADEZA ------\SOAP\WcfConductor\WcfConductor\obj\Debug\WcfConductor.pdb
+D:\Workspace\NIMEL\WcfConductor\WcfConductor\bin\WcfConductor.dll.config
+D:\Workspace\NIMEL\WcfConductor\WcfConductor\bin\WcfConductor.dll
+D:\Workspace\NIMEL\WcfConductor\WcfConductor\bin\WcfConductor.pdb
+D:\Workspace\NIMEL\WcfConductor\WcfConductor\obj\Debug\WcfConductor.csprojAssemblyReference.cache
+D:\Workspace\NIMEL\WcfConductor\WcfConductor\obj\Debug\WcfConductor.csproj.CoreCompileInputs.cache
+D:\Workspace\NIMEL\WcfConductor\WcfConductor\obj\Debug\WcfConductor.dll
+D:\Workspace\NIMEL\WcfConductor\WcfConductor\obj\Debug\WcfConductor.pdb
+C:\Users\mvilladeza\Desktop\NIMEL\WcfConductor\WcfConductor\bin\WcfConductor.dll.config
+C:\Users\mvilladeza\Desktop\NIMEL\WcfConductor\WcfConductor\bin\WcfConductor.dll
+C:\Users\mvilladeza\Desktop\NIMEL\WcfConductor\WcfConductor\bin\WcfConductor.pdb
+C:\Users\mvilladeza\Desktop\NIMEL\WcfConductor\WcfConductor\obj\Debug\WcfConductor.csprojResolveAssemblyReference.cache
+C:\Users\mvilladeza\Desktop\NIMEL\WcfConductor\WcfConductor\obj\Debug\WcfConductor.dll
+C:\Users\mvilladeza\Desktop\NIMEL\WcfConductor\WcfConductor\obj\Debug\WcfConductor.pdb

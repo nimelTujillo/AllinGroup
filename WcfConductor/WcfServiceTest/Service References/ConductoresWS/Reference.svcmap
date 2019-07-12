@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="392126a4-fbad-4da7-8189-ad02b981fb06" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:5139/Conductores.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Conductores.xsd" MetadataType="Schema" ID="d7bd8efe-06b1-4f2c-8917-2498d48980f4" SourceId="1" SourceUrl="http://localhost:5139/Conductores.svc?xsd=xsd3" />
+    <MetadataFile FileName="Conductores1.xsd" MetadataType="Schema" ID="05ca726e-e57a-4ac2-b79f-ffde1aaef941" SourceId="1" SourceUrl="http://localhost:5139/Conductores.svc?xsd=xsd2" />
+    <MetadataFile FileName="Conductores.disco" MetadataType="Disco" ID="3753be7d-aa48-4bc9-bf81-db18662efba3" SourceId="1" SourceUrl="http://localhost:5139/Conductores.svc?disco" />
+    <MetadataFile FileName="Conductores2.xsd" MetadataType="Schema" ID="4e250430-65e6-4183-a4e7-5608282ad9ed" SourceId="1" SourceUrl="http://localhost:5139/Conductores.svc?xsd=xsd0" />
+    <MetadataFile FileName="Conductores.wsdl" MetadataType="Wsdl" ID="0e24b5d7-1848-47eb-812a-9c0ff72b169d" SourceId="1" SourceUrl="http://localhost:5139/Conductores.svc?wsdl" />
+    <MetadataFile FileName="Conductores3.xsd" MetadataType="Schema" ID="07c9d0a9-a3e6-4dad-b5f7-6049acedc72f" SourceId="1" SourceUrl="http://localhost:5139/Conductores.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

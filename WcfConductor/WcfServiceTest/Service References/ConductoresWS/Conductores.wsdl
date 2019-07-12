@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Conductores" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:5139/Conductores.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:5139/Conductores.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/WcfConductor.Errores" />
+      <xsd:import schemaLocation="http://localhost:5139/Conductores.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:5139/Conductores.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WcfConductor.Dominio" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IConductores_CrearConductor_InputMessage">
+    <wsdl:part name="parameters" element="tns:CrearConductor" />
+  </wsdl:message>
+  <wsdl:message name="IConductores_CrearConductor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CrearConductorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConductores_CrearConductor_RepetidoExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q1="http://schemas.datacontract.org/2004/07/WcfConductor.Errores" name="detail" element="q1:RepetidoException" />
+  </wsdl:message>
+  <wsdl:message name="IConductores_ObtenerConductor_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerConductor" />
+  </wsdl:message>
+  <wsdl:message name="IConductores_ObtenerConductor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerConductorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConductores_ModificarConductor_InputMessage">
+    <wsdl:part name="parameters" element="tns:ModificarConductor" />
+  </wsdl:message>
+  <wsdl:message name="IConductores_ModificarConductor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ModificarConductorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConductores_EliminarConductor_InputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarConductor" />
+  </wsdl:message>
+  <wsdl:message name="IConductores_EliminarConductor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarConductorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConductores_EliminarInactivos_InputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarInactivos" />
+  </wsdl:message>
+  <wsdl:message name="IConductores_EliminarInactivos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EliminarInactivosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IConductores_ListarConductor_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListarConductor" />
+  </wsdl:message>
+  <wsdl:message name="IConductores_ListarConductor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListarConductorResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IConductores">
+    <wsdl:operation name="CrearConductor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConductores/CrearConductor" message="tns:IConductores_CrearConductor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConductores/CrearConductorResponse" message="tns:IConductores_CrearConductor_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IConductores/CrearConductorRepetidoExceptionFault" name="RepetidoExceptionFault" message="tns:IConductores_CrearConductor_RepetidoExceptionFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerConductor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConductores/ObtenerConductor" message="tns:IConductores_ObtenerConductor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConductores/ObtenerConductorResponse" message="tns:IConductores_ObtenerConductor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarConductor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConductores/ModificarConductor" message="tns:IConductores_ModificarConductor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConductores/ModificarConductorResponse" message="tns:IConductores_ModificarConductor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarConductor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConductores/EliminarConductor" message="tns:IConductores_EliminarConductor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConductores/EliminarConductorResponse" message="tns:IConductores_EliminarConductor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarInactivos">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConductores/EliminarInactivos" message="tns:IConductores_EliminarInactivos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConductores/EliminarInactivosResponse" message="tns:IConductores_EliminarInactivos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarConductor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IConductores/ListarConductor" message="tns:IConductores_ListarConductor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IConductores/ListarConductorResponse" message="tns:IConductores_ListarConductor_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IConductores" type="tns:IConductores">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CrearConductor">
+      <soap:operation soapAction="http://tempuri.org/IConductores/CrearConductor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="RepetidoExceptionFault">
+        <soap:fault use="literal" name="RepetidoExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerConductor">
+      <soap:operation soapAction="http://tempuri.org/IConductores/ObtenerConductor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModificarConductor">
+      <soap:operation soapAction="http://tempuri.org/IConductores/ModificarConductor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EliminarConductor">
+      <soap:operation soapAction="http://tempuri.org/IConductores/EliminarConductor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EliminarInactivos">
+      <soap:operation soapAction="http://tempuri.org/IConductores/EliminarInactivos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarConductor">
+      <soap:operation soapAction="http://tempuri.org/IConductores/ListarConductor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Conductores">
+    <wsdl:port name="BasicHttpBinding_IConductores" binding="tns:BasicHttpBinding_IConductores">
+      <soap:address location="http://localhost:5139/Conductores.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

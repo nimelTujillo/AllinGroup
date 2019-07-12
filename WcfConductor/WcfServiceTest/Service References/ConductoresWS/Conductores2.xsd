@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:5139/Conductores.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WcfConductor.Dominio" />
+  <xs:element name="CrearConductor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WcfConductor.Dominio" minOccurs="0" name="conductorACrear" nillable="true" type="q1:Conductor" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CrearConductorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WcfConductor.Dominio" minOccurs="0" name="CrearConductorResult" nillable="true" type="q2:Conductor" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ObtenerConductor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="dni_conductor" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ObtenerConductorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/WcfConductor.Dominio" minOccurs="0" name="ObtenerConductorResult" nillable="true" type="q3:Conductor" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ModificarConductor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/WcfConductor.Dominio" minOccurs="0" name="conductorAModificar" nillable="true" type="q4:Conductor" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ModificarConductorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/WcfConductor.Dominio" minOccurs="0" name="ModificarConductorResult" nillable="true" type="q5:Conductor" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="EliminarConductor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="dni_conductor" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="EliminarConductorResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="EliminarInactivos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="dni_conductor" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="EliminarInactivosResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ListarConductor">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ListarConductorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/WcfConductor.Dominio" minOccurs="0" name="ListarConductorResult" nillable="true" type="q6:ArrayOfConductor" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
