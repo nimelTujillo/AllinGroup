@@ -1,0 +1,17 @@
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\bin\Debug\WCFServiceTEST.dll
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\bin\Debug\WCFServiceTEST.pdb
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\obj\Debug\WCFServiceTEST.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\obj\Debug\WCFServiceTEST.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\obj\Debug\WCFServiceTEST.csproj.CopyComplete
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\obj\Debug\WCFServiceTEST.dll
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFServiceTEST\obj\Debug\WCFServiceTEST.pdb

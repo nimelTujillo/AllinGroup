@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFRecordConductorService\obj\Debug\WCFRecordConductorService.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFRecordConductorService\obj\Debug\WCFRecordConductorService.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFRecordConductorService\bin\WCFRecordConductorService.dll.config
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFRecordConductorService\bin\WCFRecordConductorService.dll
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFRecordConductorService\bin\WCFRecordConductorService.pdb
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFRecordConductorService\obj\Debug\WCFRecordConductorService.dll
+C:\Users\usuario\Desktop\WCFRecordConductor\WCFRecordConductorService\WCFRecordConductorService\obj\Debug\WCFRecordConductorService.pdb
