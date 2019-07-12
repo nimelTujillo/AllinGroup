@@ -201,14 +201,22 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\BusController.cs" />
+    <Compile Include="Controllers\ConductorController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\ProduccionController.cs" />
+    <Compile Include="Controllers\UsuarioController.cs" />
+    <Compile Include="Dominio\Produccion.cs" />
     <Compile Include="Dominio\Universidad.cs" />
+    <Compile Include="Dominio\Usuario.cs" />
     <Compile Include="Errores\RepetidoException.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\ConductorModel.cs" />
+    <Compile Include="Models\ProduccionModel.cs" />
+    <Compile Include="Models\UsuarioModel.cs" />
     <Compile Include="Models\BusModel.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
@@ -218,6 +226,11 @@
     <Compile Include="Security\SecurityPrivilege.cs" />
     <Compile Include="Security\SecurityRequiredAttribute.cs" />
     <Compile Include="Service References\BusWS\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ConductorWS\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
@@ -369,6 +382,22 @@
     <Content Include="Service References\BusWS\WebOperaciones.BusWS.Movilidad.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Content>
+    <None Include="Service References\ConductorWS\Conductores.wsdl" />
+    <None Include="Service References\ConductorWS\Conductores.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ConductorWS\Conductores1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ConductorWS\Conductores2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ConductorWS\Conductores3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Service References\ConductorWS\WebOperaciones.ConductorWS.Conductor.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
     <None Include="Service References\SeguridadWS\SeguridadService.disco" />
     <None Include="Service References\SeguridadWS\configuration91.svcinfo" />
     <None Include="Service References\SeguridadWS\configuration.svcinfo" />
@@ -380,6 +409,13 @@
     <None Include="Service References\BusWS\configuration91.svcinfo" />
     <None Include="Service References\BusWS\configuration.svcinfo" />
     <None Include="Service References\BusWS\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\ConductorWS\Conductores.disco" />
+    <None Include="Service References\ConductorWS\configuration91.svcinfo" />
+    <None Include="Service References\ConductorWS\configuration.svcinfo" />
+    <None Include="Service References\ConductorWS\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
@@ -454,6 +490,12 @@
     <Content Include="vendor\bootstrap\css\bootstrap.css.map" />
     <Content Include="vendor\bootstrap\css\bootstrap.min.css.map" />
     <Content Include="Views\Bus\ListaPartial.cshtml" />
+    <Content Include="Views\Usuario\Index.cshtml" />
+    <Content Include="Views\Usuario\ListaPartial.cshtml" />
+    <Content Include="Views\Conductor\Index.cshtml" />
+    <Content Include="Views\Conductor\ListaPartial.cshtml" />
+    <Content Include="Views\Produccion\Index.cshtml" />
+    <Content Include="Views\Produccion\ListaPartial.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -477,6 +519,7 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadataStorage Include="Service References\BusWS\" />
+    <WCFMetadataStorage Include="Service References\ConductorWS\" />
     <WCFMetadataStorage Include="Service References\SeguridadWS\" />
   </ItemGroup>
   <PropertyGroup>

@@ -76,3 +76,61 @@ C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFServices\bin\Microsof
 C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFServices\obj\Debug\WCFServices.csprojResolveAssemblyReference.cache
 C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFServices\obj\Debug\WCFServices.dll
 C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFServices\obj\Debug\WCFServices.pdb
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\ApplicationInsights.config
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\WCFServices.dll.config
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\WCFServices.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\WCFServices.pdb
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\Microsoft.AI.Web.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\Microsoft.AI.WindowsServer.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\Microsoft.ApplicationInsights.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\Microsoft.AI.Web.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\Microsoft.AI.WindowsServer.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\bin\Microsoft.ApplicationInsights.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\obj\Debug\WCFServices.csprojResolveAssemblyReference.cache
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\obj\Debug\WCFServices.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFServices\obj\Debug\WCFServices.pdb
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\ApplicationInsights.config
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\WCFServices.dll.config
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\WCFServices.dll
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\WCFServices.pdb
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.Web.dll
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.Web.xml
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\obj\Debug\WCFServices.csproj.CoreCompileInputs.cache
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\obj\Debug\WCFServices.csproj.CopyComplete
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\obj\Debug\WCFServices.dll
+D:\Workspace\NIMEL\AllinGroup-master\WCFServices\obj\Debug\WCFServices.pdb
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\ApplicationInsights.config
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\WCFServices.dll.config
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\WCFServices.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\WCFServices.pdb
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.Web.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.Web.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\obj\Debug\WCFServices.csprojResolveAssemblyReference.cache
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\obj\Debug\WCFServices.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFServices\obj\Debug\WCFServices.pdb

@@ -9,8 +9,8 @@ namespace WCFServices.Persistencia
 {
     public class MovilidadDAO
     {
-        private string CadenaConexion = "Data Source=.; Initial Catalog=BDOperaciones; Integrated Security=SSPI;";
-        
+        private string CadenaConexion = "Data Source=DESKTOP-VEOBI30; Initial Catalog = BD_Operaciones; Integrated Security=SSPI;";
+
         public Movilidad Crear(Movilidad movilidadACrear)
         {
             Movilidad movilidadCreado = null;

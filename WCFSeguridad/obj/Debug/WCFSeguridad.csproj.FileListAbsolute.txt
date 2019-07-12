@@ -11,3 +11,22 @@ C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFSeguridad\bin\WCFSegu
 C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFSeguridad\obj\Debug\WCFSeguridad.csprojResolveAssemblyReference.cache
 C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFSeguridad\obj\Debug\WCFSeguridad.dll
 C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WCFSeguridad\obj\Debug\WCFSeguridad.pdb
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFSeguridad\bin\WCFSeguridad.dll.config
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFSeguridad\bin\WCFSeguridad.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFSeguridad\bin\WCFSeguridad.pdb
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFSeguridad\obj\Debug\WCFSeguridad.csprojResolveAssemblyReference.cache
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFSeguridad\obj\Debug\WCFSeguridad.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WCFSeguridad\obj\Debug\WCFSeguridad.pdb
+D:\Workspace\NIMEL\AllinGroup-master\WCFSeguridad\bin\WCFSeguridad.dll.config
+D:\Workspace\NIMEL\AllinGroup-master\WCFSeguridad\bin\WCFSeguridad.dll
+D:\Workspace\NIMEL\AllinGroup-master\WCFSeguridad\bin\WCFSeguridad.pdb
+D:\Workspace\NIMEL\AllinGroup-master\WCFSeguridad\obj\Debug\WCFSeguridad.csprojAssemblyReference.cache
+D:\Workspace\NIMEL\AllinGroup-master\WCFSeguridad\obj\Debug\WCFSeguridad.csproj.CoreCompileInputs.cache
+D:\Workspace\NIMEL\AllinGroup-master\WCFSeguridad\obj\Debug\WCFSeguridad.dll
+D:\Workspace\NIMEL\AllinGroup-master\WCFSeguridad\obj\Debug\WCFSeguridad.pdb
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFSeguridad\bin\WCFSeguridad.dll.config
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFSeguridad\bin\WCFSeguridad.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFSeguridad\bin\WCFSeguridad.pdb
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFSeguridad\obj\Debug\WCFSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFSeguridad\obj\Debug\WCFSeguridad.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WCFSeguridad\obj\Debug\WCFSeguridad.pdb

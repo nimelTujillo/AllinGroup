@@ -207,3 +207,315 @@ C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WebOperaciones\bin\es\Mi
 C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WebOperaciones\obj\Debug\WebOperaciones.csprojResolveAssemblyReference.cache
 C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WebOperaciones\obj\Debug\WebOperaciones.dll
 C:\Users\mvilladeza\Desktop\GRUPO-DSD\SERVICIOS\nimeltr\WebOperaciones\obj\Debug\WebOperaciones.pdb
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\ApplicationInsights.config
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\roslyn\csc.exe
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\roslyn\System.Collections.Immutable.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\roslyn\System.Reflection.Metadata.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\roslyn\vbc.exe
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\roslyn\VBCSCompiler.exe
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\roslyn\VBCSCompiler.exe.config
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\WebOperaciones.dll.config
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\WebOperaciones.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\WebOperaciones.pdb
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Antlr3.Runtime.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\EntityFramework.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\EntityFramework.SqlServer.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.Agent.Intercept.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.DependencyCollector.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.Web.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.WindowsServer.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.ApplicationInsights.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.Core.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Cookies.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Facebook.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Google.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.OAuth.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Twitter.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Web.Infrastructure.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Newtonsoft.Json.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Owin.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.Helpers.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.Mvc.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.Optimization.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.Razor.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.Deployment.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.Razor.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\WCFSeguridad.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\WebGrease.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\WCFSeguridad.pdb
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.DependencyCollector.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.Web.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.WindowsServer.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.ApplicationInsights.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.Helpers.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.Mvc.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.Optimization.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.Razor.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.Deployment.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.Razor.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Antlr3.Runtime.pdb
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Newtonsoft.Json.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\EntityFramework.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\EntityFramework.SqlServer.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.Core.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Facebook.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Cookies.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.OAuth.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Google.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Twitter.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\System.Web.Helpers.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\System.Web.Mvc.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\System.Web.Optimization.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\System.Web.Razor.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\System.Web.WebPages.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\EntityFramework.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\EntityFramework.SqlServer.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\obj\Debug\WebOperaciones.csprojResolveAssemblyReference.cache
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\obj\Debug\WebOperaciones.dll
+D:\desarrollo de sistemas distribuidos\AVANCE GRUPAL\proyecto-codigo\AllinGroup-master\WebOperaciones\obj\Debug\WebOperaciones.pdb
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\ApplicationInsights.config
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\csc.exe
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\vbc.exe
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\VBCSCompiler.exe
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\WebOperaciones.dll.config
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\WebOperaciones.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\WebOperaciones.pdb
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Antlr3.Runtime.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\EntityFramework.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\EntityFramework.SqlServer.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.Web.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Google.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Web.Infrastructure.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Newtonsoft.Json.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Owin.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Helpers.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Mvc.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Optimization.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Razor.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.Deployment.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.Razor.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\WCFSeguridad.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\WebGrease.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\WCFSeguridad.pdb
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\WCFSeguridad.dll.config
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.Web.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Helpers.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Mvc.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Optimization.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Razor.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.Deployment.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.Razor.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Antlr3.Runtime.pdb
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Newtonsoft.Json.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\EntityFramework.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\EntityFramework.SqlServer.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Google.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.Helpers.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.Mvc.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.Optimization.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.Razor.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.WebPages.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\EntityFramework.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\obj\Debug\WebOperaciones.csprojAssemblyReference.cache
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\obj\Debug\WebOperaciones.csproj.CoreCompileInputs.cache
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\obj\Debug\WebOperaciones.csproj.CopyComplete
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\obj\Debug\WebOperaciones.dll
+D:\Workspace\NIMEL\AllinGroup-master\WebOperaciones\obj\Debug\WebOperaciones.pdb
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\ApplicationInsights.config
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\csc.exe
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\vbc.exe
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\WebOperaciones.dll.config
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\WebOperaciones.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\WebOperaciones.pdb
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Antlr3.Runtime.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\EntityFramework.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\EntityFramework.SqlServer.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.Web.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Newtonsoft.Json.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Owin.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Helpers.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Mvc.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Optimization.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Razor.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.Razor.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\WCFSeguridad.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\WebGrease.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\WCFSeguridad.pdb
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.Web.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Helpers.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Mvc.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Optimization.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.Razor.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\System.Web.WebPages.Razor.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Antlr3.Runtime.pdb
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Newtonsoft.Json.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\EntityFramework.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\EntityFramework.SqlServer.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.Helpers.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.Mvc.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.Optimization.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.Razor.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.WebPages.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\EntityFramework.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\obj\Debug\WebOperaciones.csprojResolveAssemblyReference.cache
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\obj\Debug\WebOperaciones.dll
+C:\Users\mvilladeza\Desktop\NIMEL\AllinGroup-master\WebOperaciones\obj\Debug\WebOperaciones.pdb

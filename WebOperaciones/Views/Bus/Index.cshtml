@@ -12,16 +12,16 @@
                     @Html.ActionLink("Inicio", "Index", "Home", null, new { @class = "nav-link" })
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="choferes.html">Choferes</a>
+                    @Html.ActionLink("Conductores", "Index", "Conductor", null, new { @class = "nav-link" })
                 </li>
                 <li class="nav-item">
                     @Html.ActionLink("Buses", "Index", "Bus", null, new { @class = "nav-link" })
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="produccion.html">Producción</a>
+                    @Html.ActionLink("Producción", "Index", "Produccion", null, new { @class = "nav-link" })
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="administrativo.html">Administrativo</a>
+                    @Html.ActionLink("Usuarios", "Index", "Usuario", null, new { @class = "nav-link" })
                 </li>
             </ul>
         </div>
@@ -119,9 +119,9 @@
                             <div class="col-md-4">
                                 <input type="button" class="btn btn-primary btn-block" id="btnAceptar" value="Aceptar" />
                             </div>
-                            <div class="col-md-4">
+                            @*@<div class="col-md-4">
                                 <input type="button" class="btn btn-warning btn-block" id="btnEnviarCorreo" value="Enviar Correo" />
-                            </div>
+                            </div>*@
                         </div>
                     </form>
 
@@ -232,7 +232,7 @@
             data: JSON.stringify({
                 correo: 'miriandvs@gmail.com',
                 asunto: 'WEB OPERACIONES: CHOFER',
-                mensaje: 'Solicitud aprobada'
+                mensaje: 'Solicitud Aprobada'
             }),
             type: "POST",
             cache: false,

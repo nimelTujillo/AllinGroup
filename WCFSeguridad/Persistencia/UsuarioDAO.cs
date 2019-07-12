@@ -9,11 +9,11 @@ namespace WCFSeguridad.Persistencia
 {
     public class UsuarioDAO
     {
-        private string CadenaConexion = "Data Source=.; Initial Catalog=BDOperaciones; Integrated Security=SSPI;";
+        private string CadenaConexion = "Data Source=.; Initial Catalog = BD_Operaciones; Integrated Security=SSPI;";
         public Usuario Autenticacion(string usu_login, string pass_login)
         {
             Usuario Encontrado = null;
-            string sql = "SELECT * FROM dbo.Usuario WHERE usu_login = @usu_login";
+            string sql = "SELECT * FROM usuario WHERE usu_login = @usu_login";
             using (SqlConnection conexion = new SqlConnection(CadenaConexion))
             {
                 conexion.Open();

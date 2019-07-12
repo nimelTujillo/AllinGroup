@@ -1,0 +1,36 @@
+﻿@model List<WebOperaciones.Dominio.Usuario>
+<div id="IndexPartialDiv">
+    <table class="table table-sm table-bordered table-striped table-hover" style="margin-top: 40px;">
+        <thead>
+            <tr>
+                @*<th scope="col">#</th>*@
+                <th scope="col">DNI</th>
+                <th scope="col">NOMBRES</th>
+                <th scope="col">APELLIDOS</th>
+                <th scope="col">EMAIL</th>
+                <th scope="col">LOGIN</th>
+                <th scope="col">CONTRASEÑA</th>
+                <th scope="col">ESTADO</th>
+                <th colspan="2">&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    @*<td scope="row">@Html.DisplayFor(modelItem => item.Dni)</td>*@
+                    <td>@Html.DisplayFor(modelItem => item.Dni)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Apellido)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                    <td>@Html.DisplayFor(modelItem => item.UsuLogin)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ContraLogin)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                    @*<td>@Html.ActionLink("Editar", "Edit", "Usuario", new { id = item.Dni }, new { @class = "btn btn-outline-primary btn-sm" })</td>*@
+                    <td>@Html.ActionLink("Eliminar", "Delete", "Usuario", new { id = item.Dni }, new { @class = "btn btn-outline-danger btn-sm" })</td>
+                
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
